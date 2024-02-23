@@ -9,7 +9,7 @@
   😁 Fun Fact: I thrive on the thrill of tackling new coding challenges like a seasoned adventurer seeking out uncharted territories in the digital realm!
 </p>
 
-## 🌐 Socials:
+<h2 align="center">## 🌐 Socials:</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/tanush-krashak"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -60,8 +60,8 @@
 
 ---
 
-
+<p align="center">
   <a href="https://visitcount.itsvg.in/api?id=TanushKrashak&icon=0&color=0"><img src="https://visitcount.itsvg.in/api?id=TanushKrashak&icon=0&color=0" alt="Visit Count"></a>
-
+</p>
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
