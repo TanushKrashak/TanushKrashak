@@ -59,8 +59,8 @@
 </p>
 
 ---
-<p align="center">
-<a href="https://komarev.com/ghpvc/?username=TanushKrashak"> </a>
-</p>
+
+![](https://komarev.com/ghpvc/?username=TanushKrashak&base=107)
+
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
