@@ -59,7 +59,7 @@
 </p>
 
 ---
-p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=TanushKrashak&base=107">
 </p>
 
