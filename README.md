@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=TanushKrashak&icon=0&color=0)](https://visitcount.itsvg.in)
+  ![Visit Count](https://visitcount.itsvg.in/api?id=TanushKrashak&icon=0&color=0)
 </p>
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
