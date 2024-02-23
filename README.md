@@ -60,7 +60,7 @@
 
 ---
 <p align="center">
-![](https://komarev.com/ghpvc/?username=TanushKrashak)
+<a href="https://komarev.com/ghpvc/?username=TanushKrashak"> </a>
 </p>
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
