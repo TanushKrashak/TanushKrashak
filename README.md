@@ -5,7 +5,7 @@
   👀 I’m interested in working with Game Development Projects in Unreal Engine <br>
   🌱 I’m currently learning new tech stacks and working over my skills.<br>
   💞️ I’m looking to collaborate on projects of Game Development, C++, Python or C.<br>
-  📫 You can reach out to me at tankrashak38816@gmail.com or drop a message at <a href="www.linkedin.com/in/tanush-krashak">www.linkedin.com/in/tanush-krashak</a><br>
+  📫 You can reach out to me at <a href="">tankrashak38816@gmail.com</a> or drop a message at <a href="www.linkedin.com/in/tanush-krashak">www.linkedin.com/in/tanush-krashak</a><br>
   😁 Fun Fact: I thrive on the thrill of tackling new coding challenges like a seasoned adventurer seeking out uncharted territories in the digital realm!
 </p>
 
