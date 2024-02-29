@@ -47,7 +47,7 @@
 </p>
 
 <h2 align="center">👨‍💻 LOC:</h2>
-<img src="assets/light.gif">
+<img src="light.gif">
 
 
 <h3 align="center">🏆 GitHub Trophies</h3>
