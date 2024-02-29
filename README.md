@@ -49,6 +49,12 @@
 <h2 align="center">👨‍💻 LOC:</h2>
 <img src="light.gif">
 
+<h2 align="center">📈 Productivity Stats:</h2>
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanushKrashak&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
