@@ -48,6 +48,9 @@
 
 <h2 align="center">👨‍💻 LOC:</h2>
 <img src="light.gif">
+<p align="center"> 
+  <img src="https://api.githubtrends.io/user/svg/TanushKrashak/langs?time_range=one_year&loc_metric=changed&theme=dark">
+</p>
 
 <h2 align="center">📈 Productivity Stats:</h2>
 <table align="center">
