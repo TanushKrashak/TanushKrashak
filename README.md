@@ -46,6 +46,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushKrashak&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
+<h2 align="center">👨‍💻 LOC:</h2>
+<img src="assets/light.gif">
+<div align="center">
+  <img align="center" src="https://api.githubtrends.io/user/svg/TanushKrashak/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
+</div>
+
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
