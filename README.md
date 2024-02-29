@@ -55,6 +55,7 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanushKrashak&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
 </table>
+<img src="light.gif">
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
