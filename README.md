@@ -48,9 +48,7 @@
 
 <h2 align="center">👨‍💻 LOC:</h2>
 <img src="assets/light.gif">
-<p align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/TanushKrashak/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
-</p>
+
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
