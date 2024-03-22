@@ -82,7 +82,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanushKrashak&base=107">
+  <img src="https://komarev.com/ghpvc/?username=TanushKrashak">
 </p>
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
