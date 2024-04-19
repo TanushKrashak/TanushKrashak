@@ -9,13 +9,6 @@
   😁 Fun Fact: I thrive on the thrill of tackling new coding challenges like a seasoned adventurer seeking out uncharted territories in the digital realm!
 </p>
 
-<h2 align="center">🌐 Socials:</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/tanush-krashak"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@konekodevs4851"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-</p>
-
 <h2 align="center">💻 Tech Stack:</h2>
 
 <p align="center">
@@ -45,6 +38,12 @@
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </p>
 
+<h2 align="center">🌐 Socials:</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tanush-krashak"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@konekodevs4851"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="center">📊 GitHub Stats:</h2>
