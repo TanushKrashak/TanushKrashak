@@ -49,9 +49,9 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 <img src="light.gif">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanushKrashak&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushKrashak&theme=dark&hide_border=false" alt="GitHub Streak Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushKrashak&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanushKrashak&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushKrashak&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushKrashak&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 <h2 align="center">👨‍💻 LOC:</h2>
@@ -63,7 +63,7 @@
 <h2 align="center">📈 Productivity Stats:</h2>
 <table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanushKrashak&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TanushKrashak&theme=highcontrast"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
 </table>
 <img src="light.gif">
@@ -80,10 +80,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
 
+---
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=TanushKrashak&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-contributor-stats.vercel.app/api?username=TanushKrashak&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
 
 ---
