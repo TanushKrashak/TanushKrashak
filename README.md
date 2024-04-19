@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tanush-krashak"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://youtube.com/@UCL20m-5IEUNxkLKJOhFgkrA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@konekodevs4851"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 </p>
 
 <h2 align="center">💻 Tech Stack:</h2>
