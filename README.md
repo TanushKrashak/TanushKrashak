@@ -51,7 +51,7 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 <img src="light.gif">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanushKrashak&theme=highcontrast&hide_border=false&count_private=true&show_icons=true" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TanushKrashak&theme=highcontrast&hide_border=false&count_private=true&show_icons=true&hide=contribs&show=reviews" alt="GitHub Stats"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushKrashak&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushKrashak&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10" alt="Top Languages">
 </p>
