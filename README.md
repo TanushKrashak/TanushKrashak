@@ -4,7 +4,7 @@
   👋 Hi, I’m Tanush Krashak<br>
   👀 I’m interested in working with Game Development Projects in Unreal Engine <br>
   🌱 I’m currently learning new tech stacks and working over my skills<br>
-  💞️ I’m looking to collaborate on projects of Game Development In UE5 with(out) C++ or other projects in C++, Python or C<br>
+  💞️ I’m looking to collaborate on projects of Game Development In UE5 with/without C++ or other projects in C++, Python or C<br>
   📫 You can reach out to me at <a href="">tankrashak38816@gmail.com</a> or drop a message at <a href="www.linkedin.com/in/tanush-krashak">www.linkedin.com/in/tanush-krashak</a><br>
   😁 Fun Fact: I thrive on the thrill of tackling new coding challenges like a seasoned adventurer seeking out uncharted territories in the digital realm!
 </p>
