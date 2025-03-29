@@ -72,7 +72,7 @@
 <h2 align="center">👨‍💻 LOC:</h2>
 <img src="light.gif">
 <p align="center"> 
-  <img src="https://api.githubtrends.io/user/svg/TanushKrashak/langs?time_range=one_year&loc_metric=changed&theme=dark">
+  <img src="https://api.githubtrends.io/user/svg/TanushKrashak/langs?&loc_metric=changed&theme=dark&time_range=all_time">
 </p>
 
 <h2 align="center">📈 Productivity Stats:</h2>
