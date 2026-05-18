@@ -43,12 +43,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KonekoSupremacy&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
-
 ---
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
